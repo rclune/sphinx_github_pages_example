@@ -13,3 +13,4 @@ Welcome to Example's documentation!
    some-feature.md
    another-feature.md
    readme_link
+   my_doc.md

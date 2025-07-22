@@ -12,5 +12,5 @@ Welcome to Example's documentation!
 
    some-feature.md
    another-feature.md
-   readme_link
+   readme_link.rst
    my_doc.md
